@@ -1,6 +1,6 @@
 {
   "name": "pallada-did-resolver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "uport-compatible resolver for Palada SSI service",
   "main": "dist/pallada-did-resolver.js",
   "source": "src/pallada-did-resolver.js",
