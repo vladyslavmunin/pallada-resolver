@@ -1,7 +1,7 @@
 {
   "name": "pallada-did-resolver",
   "version": "1.0.0",
-  "description": "uport-compatible resover for Palada SSI service",
+  "description": "uport-compatible resolver for Palada SSI service",
   "main": "dist/pallada-did-resolver.js",
   "source": "src/pallada-did-resolver.js",
   "types": "index.d.ts",
@@ -21,7 +21,7 @@
   },
   "keywords": [
     "did",
-    "resover",
+    "resolver",
     "ssi"
   ],
   "author": "Vladyslav Munin",
