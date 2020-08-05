@@ -1,2 +1,2 @@
 # pallada-resolver
-Uport-compatible  resolver for Pallada Sowtware Services
+Uport-compatible  resolver for Pallada Software Services
