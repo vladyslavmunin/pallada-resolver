@@ -1,0 +1,37 @@
+{
+  "name": "pallada-did-resolver",
+  "version": "1.0.0",
+  "description": "uport-compatible resover for Palada SSI service",
+  "main": "dist/pallada-did-resolver.js",
+  "source": "src/pallada-did-resolver.js",
+  "types": "index.d.ts",
+  "files": [
+    "dist",
+    "index.d.ts",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "microbundle",
+    "dev": "microbundle watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladyslavmunin/pallada-resolver.git"
+  },
+  "keywords": [
+    "did",
+    "resover",
+    "ssi"
+  ],
+  "author": "Vladyslav Munin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/vladyslavmunin/pallada-resolver/issues"
+  },
+  "homepage": "https://github.com/vladyslavmunin/pallada-resolver#readme",
+  "dependencies": {
+    "microbundle": "^0.12.3",
+    "node-fetch": "^2.6.0"
+  }
+}
