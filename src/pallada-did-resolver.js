@@ -14,7 +14,7 @@ function getResolver(conf = {}) {
     const doc = await fetchDIDDocument(did, conf['url'])
     return doc
   }
-  return { gohealthy: resolve , ethr: resolve }
+  return { healhy: resolve , ethr: resolve }
 }
 
 module.exports = {
